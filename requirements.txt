@@ -1,0 +1,5 @@
+pip install camelot.py 
+apt-get install libgl1-mesa-glx 
+install ghostscript python3-tk 
+apt-get install libglib2.0-dev 
+pip install matplotlib 
