@@ -1,2 +1,2 @@
 # pdf_extraction
-Conatinas the files to turn pdf to json text files
+An implementation of the Camelot library to extract tables from pdf's into csv files
